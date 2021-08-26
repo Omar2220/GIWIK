@@ -1,16 +1,19 @@
 # GIWIK
+
 *Project Idea*
+
 Introducing to you a small project that's based on API. In this project we allow the user to search for whatever he wants (using Wikipedia's API) and then we display that info for him, in addition to this we display a GIF from Giphy (using Giphy's API) that's showing a relevant GIF for what he had searched.
+
 **Aziz Abu Nahli & Omar Shammout - 2021©.**
 
 *Project Structure:*
+
 Form (empty screen) :
 :point_down:
 ---
 ![1](https://user-images.githubusercontent.com/86624053/130784403-7ac9c650-38d3-4500-bf67-c7e6510dd3a7.png)
 ---
-Here is a sample for some search on the text "smile":
-First result here from WIKIPEDIA:
+Here is a sample for some search on the text "smile",First result here from WIKIPEDIA:
 :point_down:
 ---
 ![2](https://user-images.githubusercontent.com/86624053/130785473-4a77bb4c-b0ce-4f2c-9d02-bae8a4f71397.png)
@@ -36,4 +39,6 @@ If there is no match for the search's text,then we display the following message
 > Writing And Formatting On GitHub: 
 > - [Basic writing and formatting on GitHub (like README.md)](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github).
 > - [Using Emojis on GitHub](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
+
+
 **Aziz Abu Nahli & Omar Shammout - 2021©.**
